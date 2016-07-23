@@ -1,4 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MyTestTools</string>
     <string name="app_start_act">启动界面</string>
 </resources>
